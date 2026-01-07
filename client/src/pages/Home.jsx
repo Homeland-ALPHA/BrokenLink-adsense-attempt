@@ -75,7 +75,7 @@ const Home = () => {
       <section className="grid gap-10 lg:grid-cols-[2fr,1fr] lg:items-start">
         <div className="flex flex-col gap-6">
           <h1 className="text-3xl font-semibold leading-tight md:text-5xl">
-            Broken links cost rankings.      We find them first.
+            Ship polished websites with confidence, even on fast release cycles.
           </h1>
           <p className="text-base text-slate-300 md:text-lg">
             BrokenLink AI audits your marketing site, documentation, and product surfaces for dead ends, redirect loops,
